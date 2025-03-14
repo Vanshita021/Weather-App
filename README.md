@@ -5,10 +5,10 @@ This is a simple weather app that fetches real-time weather data based on the ci
 ## Screenshots
 
 ### Main UI:
-![Weather App](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/Screenshot%202025-03-14%20205659.jpg)
+![Weather App](https://raw.githubusercontent.com/Vanshita021/Weather-App/main/Screenshot%202025-03-14%20205659.jpg)
 
 ### Search UI:
-![Search Box](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/Screenshot%202025-03-14%20205730.jpg)
+![Search Box](https://raw.githubusercontent.com/Vanshita021/Weather-App/main/Screenshot%202025-03-14%20205730.jpg)
 
 ## Features
 - Fetches real-time weather data 🌍
@@ -24,11 +24,4 @@ This is a simple weather app that fetches real-time weather data based on the ci
 - HTML
 - CSS
 - JavaScript
-- OpenWeather API
-
-## Installation
-Clone the repository and open `index.html` in your browser.
-
-```bash
-git clone https://github.com/YourUsername/YourRepoName.git
-cd YourRepoName
+- OpenWeather
