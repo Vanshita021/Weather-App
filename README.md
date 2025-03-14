@@ -2,9 +2,6 @@
 
 This is a simple weather app that fetches real-time weather data based on the city entered.
 
-### 🚀 Live Demo  
-🔗 [Click here to view the Weather App](https://vanshita021.github.io/Weather-App/)
-
 
 ## Screenshots
 
