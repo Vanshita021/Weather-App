@@ -25,3 +25,8 @@ This is a simple weather app that fetches real-time weather data based on the ci
 - CSS
 - JavaScript
 - OpenWeather
+
+### 🔧 Setup  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/Vanshita021/Weather-App.git
