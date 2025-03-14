@@ -5,10 +5,10 @@ This is a simple weather app that fetches real-time weather data based on the ci
 ## Screenshots
 
 ### Main UI:
-![Weather App](https://raw.githubusercontent.com/Vanshita021/Weather-App/main/Screenshot%202025-03-14%20205659.jpg)
+![Portfolio Screenshot](https://github.com/Vanshita021/Weather-App/blob/main/Screenshot%202025-03-14%20205730.jpg)
 
 ### Search UI:
-![Search Box](https://raw.githubusercontent.com/Vanshita021/Weather-App/main/Screenshot%202025-03-14%20205730.jpg)
+![Search Box](https://github.com/Vanshita021/Weather-App/blob/main/Screenshot%202025-03-14%20205659.jpg)
 
 ## Features
 - Fetches real-time weather data 🌍
